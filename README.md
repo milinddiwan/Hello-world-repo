@@ -3,8 +3,11 @@ Reposotory for the BNL internal Git tutorial
 I am adding some crap to this git 
 
 THis edit was made on the browser.  It sucks  
-I a going to trigger a conflict 
+Add more lines to this 
+another line
+one more line  
+junk junk junk  
+header line 
+local version 
+local version that sucks  
 
-do not pull and try to commit 
-
-why is this working 
